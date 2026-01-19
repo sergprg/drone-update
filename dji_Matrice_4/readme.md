@@ -16,7 +16,8 @@
 2) Если пульт новый, подключаем пульт к Wifi и пошагово проходим этап инициализации
 3) Подключаем пульт к ПК
 4) Используя программу DJI Assistant 2 (Enterprise Series) обновляем ПО пульта до последней версии
-5) Устанавливаем доп. приложения (GPS Test_1.6.5_Apkpure.apk, ochi_release_1.7.31.apk, vezha-1.2.7.apk)
+5) Устанавливаем доп. приложения (GPS Test_1.6.5_Apkpure.apk, ochi_release_1.7.31.apk, vezha-1.2.7.apk) (см. подкаталог "apk")
+
     ![Link drone](img_installed_apk.jpg)
 6) В приложении DJI Pilot2 перейдя в меню настроек отключаем потенциально не желательные функции:
     ![Link drone](img_pilot2.jpg)
