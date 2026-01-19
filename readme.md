@@ -15,9 +15,9 @@ Autel
 
 
 
-[ref_mavic3]: ./dji_mavic_3/readme.md
+[ref_mavic3]: ./dji_Mavic_3/readme.md
 [ref_matrice4]: ./dji_Matrice_4/readme.md
-[ref_matrice30]: ./dji_matrice_30/readme.md
+[ref_matrice30]: ./dji_Matrice_30/readme.md
 [ref_rm510_patch]: ./dji_RM510_patch/readme.md
 [ref_overlord]: ./autel_Overlord/readme.md
 [ref_boom]: ./autel_Boom/readme.md
